@@ -11,7 +11,7 @@
 
 ////ARRAYS
 
-//string[] veg = new string[4] { "tomato", "carrote", "beans", "cabbage" };
+//string[] veg = new string[4] { "tomto", "carrote", "beans", "cabbage" };
 //foreach (var vegitable in veg)
 //{
 //    Console.WriteLine(vegitable);
