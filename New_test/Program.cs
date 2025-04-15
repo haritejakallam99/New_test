@@ -27,7 +27,7 @@
 
 Dictionary<int, string> valuepairs = new Dictionary<int, string>();
 
-valuepairs.Add(0, "tomato");
+valuepairs.Add(0, "Tomati");
 valuepairs.Add(1, "carrot");
 valuepairs.Add(2, "beans");
 
