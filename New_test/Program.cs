@@ -1,27 +1,27 @@
 ﻿
 
 
-//float numberFloat = 123.45678f;
+float numberFloat = 123.45678f;
 
-//{
-//    Console.WriteLine(numberFloat);
+{
+    Console.WriteLine(numberFloat);
 
-//}
+}
 
 
-////ARRAYS
+//ARRAYS
 
-//string[] veg = new string[4] { "tomto", "carrote", "beans", "cabbage" };
-//foreach (var vegitable in veg)
-//{
-//    Console.WriteLine(vegitable);
-//}
+string[] veg = new string[4] { "tomto", "carrote", "beans", "cabbage" };
+foreach (var vegitable in veg)
+{
+    Console.WriteLine(vegitable);
+}
 
-//double[] dub = new double[4] { 23323.4567890, 2334123.54656456546, 232412.0475844, 244123.324354645645 };
-//foreach (var dubable in dub)
-//{
-//    Console.WriteLine(dubable);
-//}
+double[] dub = new double[4] { 23323.4567890, 2334123.54656456546, 232412.0475844, 244123.324354645645 };
+foreach (var dubable in dub)
+{
+    Console.WriteLine(dubable);
+}
 
 //dictionary
 
@@ -36,15 +36,15 @@ foreach (var item in valuepairs)
     Console.WriteLine($"number:{item.Key},veggies:{item.Value}");
 }
 
-//Dictionary<string, float> values = new Dictionary<string, float>();
-//values.Add("teja", 12.3f);
-//values.Add("sai", 14.2f);
-//values.Add("lalitha", 26.12f);
+Dictionary<string, float> values = new Dictionary<string, float>();
+values.Add("teja", 12.3f);
+values.Add("sai", 14.2f);
+values.Add("lalitha", 26.12f);
 
-//foreach (var key in values)
-//{
-//    Console.WriteLine($"name:{key.Key},number:{key.Value}");
-//}
+foreach (var key in values)
+{
+    Console.WriteLine($"name:{key.Key},number:{key.Value}");
+}
 
 //LISTS
 
