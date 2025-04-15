@@ -48,17 +48,7 @@ foreach (var item in valuepairs)
 
 //LISTS
 
-List<int> sampleList= new List<int>();
-sampleList.Add(1);
-sampleList.Add(1);
-sampleList.Add(3);
-sampleList.Add(2);
 
-foreach(var item in sampleList)
-{
-    Console.WriteLine(item);
-
-}
 
 //public class Employee
 //{
